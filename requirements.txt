@@ -1,0 +1,5 @@
+Flask
+Flask_SQLAlchemy
+Werkzeug
+Flask_Login
+guicorn
